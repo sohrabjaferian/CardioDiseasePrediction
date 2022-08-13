@@ -1,0 +1,5 @@
+In this project I developed a neural network model to predict cardiovascular diseases based on 11 features.
+
+I used a dataset from Kaggle at the below address:
+
+https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
